@@ -1,0 +1,5 @@
+msgid "Clear Session Files"
+msgstr "Session Dateien löschen"
+
+msgid "Session files have been deleted, please login."
+msgstr "Die Session Dateien wurden gelöscht, bitte loggen Sie sich ein."
