@@ -1,6 +1,7 @@
 # ClearSessionFile
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.txt)
+[![Total Downloads](https://img.shields.io/packagist/dt/lumaxw3b/croogo_clearsessionfile.svg?style=flat-square)](https://packagist.org/packages/lumaxw3b/croogo_clearsessionfile)
 
 Croogo CMS ClearSessionFile plugin for session file delete in the tmp/sessions folder.
 
