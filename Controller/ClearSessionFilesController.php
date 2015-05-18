@@ -19,6 +19,6 @@ class ClearSessionFilesController extends ClearSessionFilesAppController {
 	public function admin_clear() { 
 		$this->ClearSessionFile->delete();
 		$this->Session->setFlash(__d('clear_session_file', 'Session files have been deleted, please login.'), 'default', array('class' => 'success'));
-		return $this->redirect(DS . 'admin');
+		return $this->redirect(Configure::read('Croogo.dashboardUrl'));
 	}
 }
