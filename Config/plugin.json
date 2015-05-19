@@ -1,7 +1,7 @@
 {
-    "name": "ClearSessionFile",
-    "description": "ClearSessionFile Plugin",
-    "author": "Lukas Marks",
-    "authorEmail": "info@lumax-web.de",
-    "authorUrl": "http://www.lumax-web.de"
+	"name": "ClearSessionFile",
+	"description": "ClearSessionFile Plugin",
+	"author": "Lukas Marks",
+	"authorEmail": "info@lumax-web.de",
+	"authorUrl": "http://lumax-web.de/"
 }
